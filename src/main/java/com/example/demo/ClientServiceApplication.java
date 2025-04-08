@@ -1,13 +1,13 @@
-package com.example.SegundoParcial;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SegundoParcialApplication {
+public class ClientServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SegundoParcialApplication.class, args);
+		SpringApplication.run(ClientServiceApplication.class, args);
 	}
 
 }
